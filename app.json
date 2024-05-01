@@ -1,18 +1,18 @@
 {
-  "name": "PRABATH-MD (2.0.6)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "SANDESH-MD (2.0.6)",
+  "description": "SANDESH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["prabath", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "keywords": ["sandesh", "bot", "whatsapp bot", "multi device", "sandesh-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "94741259325",
       "required": true
     },  
 
     "PASSWORD": {
-      "description": "Enter a password of your choice here",
+      "description": "vijithA1234@",
       "required": true
     },
 
@@ -22,7 +22,7 @@
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "vijitharanawakage",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
